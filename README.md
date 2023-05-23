@@ -1,2 +1,2 @@
-# python-programiz
-learning python through programiz
+Learning python
+
